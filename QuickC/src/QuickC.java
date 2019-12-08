@@ -29,7 +29,7 @@ import java.util.ArrayList;
  * <br />
  * This class is not tested on the AP CS A and AB exams.
  */
-public class QuickCrab extends CrabCritter
+public class QuickC extends CrabCritter
 {
 
     public ArrayList<Location> getMoveLocations()
